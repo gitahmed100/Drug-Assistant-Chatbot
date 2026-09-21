@@ -114,13 +114,6 @@ curl -X POST http://localhost:8000/query \
 ```
 Invalid input (missing/too short `question`) returns **422**. If Ollama is down the API returns **503**.
 
-## Evaluation results
-<Paste the table printed by the notebook (section 6) and 3–4 sentences about failure cases and mitigations.>
-
-| question | retrieved_source | answer | grounded | correct |
-|---|---|---|---|---|
-| … | … | … | … | … |
-
 
 ## Docker (backend)
 ```bash
