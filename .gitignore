@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Secrets & logs
+.env
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Raw document corpus (large) - see README for how to obtain it
+data/raw/*
+!data/raw/.gitkeep
+
+# Vector store: it is COMMITTED by default (small).
+# If yours is bigger than ~50 MB, remove the "#" on the next line:
+# backend/data/vector_store/

@@ -1,0 +1,50 @@
+question,retrieved_source,retrieval_relevant,answer,grounded,correct
+What are the Drug/Laboratory Test Interactions of Amoxicillin?,Amoxicillin_label.pdf,yes,"Unfortunately, I could not find any information on Drug/Laboratory Test Interactions of Amoxicillin in the provided documents.",?,?
+What are the clinical considerations in lactations when using Azithromycin?,Azithromycin_label.pdf,yes,"According to the provided context, the clinical considerations in lactations when using Azithromycin are to advise women to monitor the breastfed infant for diarrhea, vomiting, or rash. [1]",?,?
+What are the contraindications of metformin?,Metformin_label.pdf,yes,"The contraindications of metformin are not explicitly stated in the provided documents. However, there are warnings and precautions related to certain conditions and situations that may require caution or avoidance of metformin use.
+
+For example, patients with severe and disabling arthralgia (page 12) may need to be cautious, but this is not a contraindication.
+
+Additionally, the documents mention specific situations where caution is advised, such as:
+
+* Metformin-associated lactic acidosis (page 4)
+* Concomitant use with insulin or insulin secretagogues (page 5)
+* Coadministration with certain drugs that may increase the risk of lactic acidosis (page 6)
+* Concomitant use with alcohol (page 6)
+
+However, the documents do not explicitly state contraindications for metformin.
+
+I could not find this in the provided documents.",?,?
+What are the common adverse reactions of amlodipine?,"Amlodipine_label.pdf, Atorvastatin_label.pdf",yes,The most commonly reported side effects more frequent than placebo are dizziness and edema. [2],?,?
+What are the contraindications of atorvastatin?,Atorvastatin_label.pdf,yes,"The contraindications of atorvastatin are not explicitly stated in the provided documents. However, there are warnings and precautions listed in the labeling, such as liver enzyme testing, monitoring for myopathy and rhabdomyolysis, and certain interactions with other drugs or grapefruit juice.
+
+[5] (source: Atorvastatin_label.pdf, page 9)
+myopathy; and improvement with immunosuppressive agents. Additional neuromuscular and serologic testing may be necessary. Treatment with immunosuppressive agents may be required. Discontinue ​amlodipine and atorvastatin tablets if IMNM is suspected.
+
+[6] (source: Atorvastatin_label.pdf, page 2)
+mlodipine and atorvastatin tablets with other drugs or grapefruit juice that increase the risk of myopathy and rhabdomyolysis ( 2.5 , 7.3 ). Rifampin: May reduce atorvastatin plasma concentrations. Administer simultaneously with atorvastatin ( 7.4 ). Oral Contraceptives: May increase plasma levels of norethindrone and ethinyl estradiol; consider this effect when selecting an oral contraceptive ( 7.5 ). Digoxin: May increase digoxin plasma levels; monitor patients appropriately ( 7.5 ). Pregnancy: May cause fetal harm ( 8.1 ). Lactation: Breastfeeding not recommended during treatment with amlodipine and atorvastatin tablets ( 8.2 ).
+
+Note: The provided documents do not explicitly state contraindications, but rather warnings and precautions that require special attention or monitoring.",?,?
+What are the warnings and precautions associated with ciprofloxacin?,"Azithromycin_label.pdf, Ciprofloxacin_label.pdf",yes,"According to the provided context, the warnings and precautions associated with ciprofloxacin are:
+
+5.1 Hypersensitivity Reactions
+5.2 Potential for Microbial Overgrowth with Prolonged Use
+5.3 Continued or Recurrent Otorrhea
+
+[1], [2], [5]
+
+Note that these warnings and precautions are specific to ciprofloxacin and dexamethasone otic suspension, and may not be applicable to other forms or uses of ciprofloxacin.",?,?
+What are the contraindications of lisinopril?,Lisinopril_label.pdf,yes,I could not find this in the provided documents.,?,?
+What are the contraindications of losartan?,Losartan_label.pdf,yes,"Losartan potassium is contraindicated in patients who are hypersensitive to any component of this product [3]. Additionally, losartan potassium is contraindicated for coadministration with aliskiren in patients with diabetes [3].",?,?
+What are the indications and usage of omeprazole?,"Amoxicillin_label.pdf, Lisinopril_label.pdf, Omeprazole_label.pdf",yes,"The indications and usage of omeprazole are as follows:
+
+Treats frequent heartburn (occurs 2 or more days a week) not intended for immediate relief of heartburn; this drug may take 1 to 4 days for full effect.
+
+[1]
+
+For more information on indications and usage, refer to the INDICATIONS AND USAGE section of the package insert.
+
+[4]",?,?
+What are the common adverse reactions of sertraline?,"Amlodipine_label.pdf, Azithromycin_label.pdf, Lisinopril_label.pdf, Losartan_label.pdf",no,I could not find this in the provided documents.,?,?
+What is the recommended dose of warfarin?,"Amlodipine_label.pdf, Atorvastatin_label.pdf, Azithromycin_label.pdf, Metformin_label.pdf",n/a (out of scope),I could not find this in the provided documents.,?,?
+What is the recipe for chocolate cake?,"Atorvastatin_label.pdf, Losartan_label.pdf, Sertraline_label.pdf",n/a (out of scope),I could not find this in the provided documents.,?,?
