@@ -17,7 +17,6 @@ APP_TAGLINE = (
 )
 
 EXAMPLE_QUESTIONS = [
-    "What are the contraindications of metformin?",
     "What are the common side effects of amoxicillin?",
     "How should medicines be stored during distribution?",
     "Can atorvastatin be used during pregnancy?",
